@@ -20,14 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef9c197c-1f9a-45fc-a324-e1bd2dc49624" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CsvReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/recources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/recources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CsvReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CsvReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636101500919</updated>
       <workItem from="1636101502518" duration="735000" />
+      <workItem from="1636111002949" duration="31000" />
     </task>
     <servers />
   </component>
@@ -80,6 +74,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="720" y="222" key="RollbackChangesDialog" timestamp="1636101821848">
